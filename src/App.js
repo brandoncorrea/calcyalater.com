@@ -7,7 +7,7 @@ function App() {
         <h1>About</h1>
         <p>This website is for calculators and stuff!
           Stay tuned for updates and features as I add
-          new calculators and other fun stuff!</p>
+          new calculators and other fun things!</p>
       </Container>
   );
 }
